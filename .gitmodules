@@ -1,0 +1,15 @@
+# ❌ Không push file token
+.env
+
+# ❌ Không push thư viện nặng
+node_modules/
+
+# ❌ Không push file log và cache
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+Thumbs.db
+dist/
+build/
+.vscode/
